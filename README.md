@@ -3,8 +3,9 @@ UML EDITOR
 
 Features
 ===============
-* stores passwords in DB as hashes
+
 * easy registration of new user
+* stores passwords in DB as hashes
 * uml to xmi export 
 * save the uml as image
 * modern and minimalistic design
@@ -33,6 +34,17 @@ Making a secure Page
 
 To make a secure page add the contents from "auth.php" to the top of any .php page. This will force the user to login before they can see your page.
 
+
+UML Compoonents
+=====================
+
+* Class
+* Interface
+* Attributes
+* Abstract Class
+* Association
+* Composition
+* Generalization
 
 XMI Export
 =====================
