@@ -61,7 +61,7 @@ Preview
 ========
 Page
 
-<a href="https://imgur.com/XfejFQd" target="_blank"><img style="padding-left:5%;" src="https://imgur.com/XfejFQd" alt="Pics" width="100%"></img></a>
+<a href="https://i.imgur.com/XfejFQd.png" target="_blank"><img style="padding-left:5%;" src="hhttps://i.imgur.com/XfejFQd.png" width="100%"></img></a>
 
 
 License
