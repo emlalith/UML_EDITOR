@@ -59,9 +59,9 @@ The UML diagram can be exported in the form of jpg by clicking on the Save as Im
   
 Preview
 ========
-Page
+Screenshots Of the Page
 
-<a href="https://imgur.com/XfejFQd" target="_blank"><img style="padding-left:5%;" src="https://imgur.com/XfejFQd" alt="Login/Register Form Install Instructions" width="100%"></img></a>
+<a href="https://imgur.com/DNxHYEn" target="_blank"><img style="padding-left:5%;" src="hhttps://imgur.com/DNxHYEn" alt="Login/Register Form Install Instructions" width="100%"></img></a>
 
 
 License
