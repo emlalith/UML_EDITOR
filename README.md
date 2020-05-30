@@ -11,6 +11,7 @@ Features
 * modern and minimalistic design
 * easy logout with session destroy
 * designed for security
+* works in both touch screen and non touch screen
 
 Hosting the site
 =====================
@@ -63,6 +64,7 @@ Screenshots Of the Page
 
 <a href="https://imgur.com/a/joOcKHP" target="_blank"><img style="padding-left:5%;" src="https://imgur.com/a/joOcKHP" alt="Click Here to view the Screenshots" width="100%"></img></a>
 
+Working Link: https://emlalith.github.io (Only the UML page)
 
 License
 ==========
