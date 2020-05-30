@@ -61,7 +61,7 @@ Preview
 ========
 Screenshots Of the Page
 
-<a href="https://imgur.com/DNxHYEn" target="_blank"><img style="padding-left:5%;" src="hhttps://imgur.com/DNxHYEn" alt="Login/Register Form Install Instructions" width="100%"></img></a>
+<a href="https://imgur.com/a/joOcKHP" target="_blank"><img style="padding-left:5%;" src="https://imgur.com/a/joOcKHP" alt="Click Here to view the Screenshots" width="100%"></img></a>
 
 
 License
