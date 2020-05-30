@@ -59,7 +59,9 @@ The UML diagram can be exported in the form of jpg by clicking on the Save as Im
   
 Preview
 ========
-Login Form: https://github.nated.xyz/demo/login-signup-form/login.php
+Page
+
+<a href="https://imgur.com/a/oX3gNsW" target="_blank"><img style="padding-left:5%;" src="https://imgur.com/a/oX3gNsW" alt="Login/Register Form Install Instructions" width="100%"></img></a>
 
 
 License
